@@ -1,0 +1,8 @@
+/.gradle/
+/build/
+**/build/
+local.properties
+release.keystore
+keystore.b64
+*.iml
+.idea/
