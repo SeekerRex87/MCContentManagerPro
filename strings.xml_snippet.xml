@@ -1,0 +1,5 @@
+<!-- res/values/strings.xml (fragment) -->
+<resources>
+    <string name="app_name">Minecraft File Editor</string>
+    <string name="developer_name">SeekerRex87</string>
+</resources>

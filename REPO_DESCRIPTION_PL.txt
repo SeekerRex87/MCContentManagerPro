@@ -1,0 +1,3 @@
+Androidowy menedżer plików do Minecraft Bedrock: import .mcworld/.mcpack/.mcaddon, walidacja i naprawa JSON, kreator paczek, multiselect, porządkowanie duplikatów i pustych folderów, bezpieczna zmiana nazw z aktualizacją manifestów. Autor: SeekerRex87.
+
+Długość: 252 znaków.

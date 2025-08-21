@@ -1,0 +1,8 @@
+<!-- AndroidManifest.xml (fragment) -->
+<application
+    android:label="Minecraft File Editor"
+    android:icon="@mipmap/ic_launcher">
+    <meta-data
+        android:name="developer_name"
+        android:value="SeekerRex87" />
+</application>

@@ -1,0 +1,7 @@
+// app/build.gradle (fragment)
+android {
+    defaultConfig {
+        applicationId "com.github.seekerrex87.minecrafteditor"
+        // reszta konfiguracji…
+    }
+}
